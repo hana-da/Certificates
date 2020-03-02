@@ -16,7 +16,10 @@ https://www.hellowork.go.jp/info/license_list01.html
 * Ruby Association Certified Ruby Programmer Gold
 * Ruby Association Certified Ruby Programmer Silver Version 2.1
 * Ruby Association Certified Ruby Programmer Gold Version 2.1
-
+* AWS Certified Cloud Practitioner
+* AWS Certified Solutions Architect - Associate
+* AWS Certified SysOps Administrator - Associate
+* AWS Certified Developer - Associate
 
 ## 事務処理関係
 
