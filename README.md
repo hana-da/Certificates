@@ -1,8 +1,8 @@
 Certificates
 ==============
 
-分類はハローワークの分類です。
-https://www.hellowork.go.jp/info/license_list01.html
+分類はハローワークの分類です。  
+https://www.hellowork.mhlw.go.jp/info/license_list03.html
 
 ## 技術関係
 
